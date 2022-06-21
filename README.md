@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/candragati/candargati/blob/master/devcard.svg" width="400" alt="Candragati's Dev Card"/></a>
+<a href="https://app.daily.dev/Candragati"><img src="https://github.com/candragati/candargati/blob/master/devcard.svg" width="400" alt="Candragati's Dev Card"/></a>
 
 <!--
 **candragati/candragati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
