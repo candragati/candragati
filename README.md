@@ -1,7 +1,7 @@
 <table border = 1>
   <tr>
     <td>
-<a href="https://app.daily.dev/Candragati"><img src="https://github.com/candragati/candragati/blob/main/devcard.svg" width="400" alt="Candragati's Dev Card"/></a>
+<a href="https://app.daily.dev/candragati"><img src="https://github.com/candragati/candragati/blob/main/devcard.svg" width="400" alt="Candragati's Dev Card"/></a>
     </td>
     <td valign="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=candragati&theme=react&show_icons=true"><br>
