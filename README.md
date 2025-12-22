@@ -5,8 +5,10 @@
     </td>
     <td valign="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=candragati&theme=react&show_icons=true"><br>
-      <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=candragati&theme=react" /><br>
+      <img  width="400" src="https://streak-stats.demolab.com/?user=candragati" /><br>
       <img width="400p" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candragati&layout=compact&theme=react&custom_title=Languages" /> 
+      
+
   </td>
   </tr>  
   
